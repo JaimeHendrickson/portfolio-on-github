@@ -21,7 +21,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hi! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         city = input("Please insert the city you're interested in:\n Chicago, New York City, or Washington\n")
@@ -158,7 +158,7 @@ def user_stats(df):
     # TO DO: Display counts of gender
     try:
         gender_counts = df['Gender'].value_counts().to_string()
-        print('The respective gender counts are:')
+        print('The gender counts are:')
         print(gender_counts)
     except KeyError:
         print('Sorry, there is no gender data available')
