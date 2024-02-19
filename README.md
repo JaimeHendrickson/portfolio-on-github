@@ -11,16 +11,16 @@ In this project, I used bike share systems data from Chicago, New York City, and
 
 ### Files used
 1.)The following file contains a template and helper code:
-   -bikeshare.py
+   *bikeshare.py
 2.)The following files contain bike share systems data from the cities used:
-   -chicago.csv
-   -new_york_city.csv
-   -washington.csv
+   *chicago.csv
+   *new_york_city.csv
+   *washington.csv
 
 ### Credits
--https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
+*https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
 
--https://docs.scipy.org/doc/numpy-1.13.0/contents.html
+*https://docs.scipy.org/doc/numpy-1.13.0/contents.html
 
--https://docs.python.org/3/tutorial/index.html
+*https://docs.python.org/3/tutorial/index.html
 
