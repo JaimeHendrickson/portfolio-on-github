@@ -18,9 +18,9 @@ In this project, I used bike share systems data from Chicago, New York City, and
    -washington.csv
 
 ### Credits
-#https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
+-https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
 
-#https://docs.scipy.org/doc/numpy-1.13.0/contents.html
+-https://docs.scipy.org/doc/numpy-1.13.0/contents.html
 
-#https://docs.python.org/3/tutorial/index.html
+-https://docs.python.org/3/tutorial/index.html
 
