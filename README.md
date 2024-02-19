@@ -7,7 +7,7 @@ January 17, 2024
 Explore US Bikeshare Data
 
 ### Description
-In this project, I used bike share systems data from Chicago, New York City, and Washington to write code to answer interesting questions about it. This was done by computing descriptive statistics.
+In this project, I used bike share systems data from Chicago, New York City, and Washington to write code and answer interesting questions about the data. This was done by computing descriptive statistics.
 
 ### Files used
 1.)The following file contains a template and helper code:
